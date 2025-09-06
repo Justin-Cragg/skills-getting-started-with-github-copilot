@@ -91,7 +91,8 @@ section h3 {
   list-style: disc;
   padding-left: 22px;
   margin: 0;
-  display: block;
+  display: flex;
+  flex-direction: column;
   gap: 6px;
 }
 
